@@ -8,8 +8,7 @@ Hands-on SOC home lab built in Microsoft Azure to practice virtual networking, V
 - Configured Network Security Groups (NSG) and managed firewall rules.
 - Turned off NSG and VM firewall to simulate vulnerabilities.
 - Explored Microsoft Sentinel for monitoring and alerting.
-- - [SOC Home Lab](https://github.com/yourusername/soc-home-lab)  
-  Hands-on SOC home lab in Azure to practice security operations, network defense, and incident response skills. Includes setting up virtual networks, VMs, configuring firewalls, and using PowerShell to verify VM connectivity.
+- Used PowerShell to verify VM connectivity.
 
 
 ## Tools Used
