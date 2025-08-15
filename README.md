@@ -37,21 +37,20 @@ Hands-on SOC home lab built in Microsoft Azure to practice virtual networking, V
 
 ### Azure Resource Groups  
 Screenshot of the VM and Virtual Network setup from the Resource Groups page.  
-![Azure Resource Groups](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/images/azure_resource_groups.png)
+![Azure Resource Groups](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/azure_resource_groups.png)
 
 ### Microsoft Sentinel Logs  
 View of the Microsoft Sentinel interface showing alert logs.  
-![Microsoft Sentinel Logs](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/images/microsoft_sentinel_logs.png)
+![Microsoft Sentinel Logs](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/microsoft_sentinel_logs.png)
 
 ### Network Security Group (NSG) Configuration  
 Details of the NSG rule settings used in the lab.  
-![Network Security Group](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/images/network_security_group.png)
+![Network Security Group](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/network_security_group.png)
 
 ### PowerShell VM Connectivity Test  
 PowerShell output showing ping results to verify VM connectivity.  
-![PowerShell VM Connectivity Test](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/images/powershell.png)
+![PowerShell VM Connectivity Test](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/powershell.png)
 
 ### Windows VM Attack Map  
 Visual representation of the attack map inside the Windows VM.  
-![Windows VM Attack Map](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/images/windows_vm_attack_map.png)
-
+![Windows VM Attack Map](https://raw.githubusercontent.com/ZaziZulu/soc-home-lab/main/windows_vm_attack_map.png)
